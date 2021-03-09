@@ -5,7 +5,7 @@ Most people suffer from emotional distress due to going through a significant li
 - [Dependencies](#dependencies)
 - [Files Description](#files-description)
 - [Dataset](#dataset)
-- [Steps to Reproduce our Result](#steps-to-reproduce-our-result)
+- [Steps to Reproduce Result](#steps-to-reproduce-our-result)
 - [References](#references)
 - [License](#license)
 
