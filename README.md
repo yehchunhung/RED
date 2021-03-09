@@ -1,4 +1,4 @@
-# Reddit Empathetic Dialogue Retrieval
+# Reddit Empathetic Dialogue DataSet (RED Dataset)
 Most people suffer from emotional distress due to going through a significant life change, financial crisis, being a caregiver or due to various physical and mental health conditions. Inability to regulate emotion in such episodes can potentially lead to self-destructive behavior such as substance abuse, self-harm or suicide. However, due to public and personal “stigma” associated with mental health, most people do not reach out for help. Even therapeutic consultations are limited and are not available 24/7 to support people when they are going through a traumatic episode. Therefore, it is important to assess the ability of AI driven chatbots to help people to deal with emotional distress and help them regulate emotion. One of the major limitations in developing such a chatbot is the unavailability of a curated dialogue dataset containing emotional support. With this project, we aim to curate and analyse such a dataset having the potential to train and evaluate mental care giving chatbot that can support people in emotional distress.
 
 ## Table of Contents
