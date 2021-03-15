@@ -74,10 +74,10 @@ The codes are implemented in Python 3. You will need the following dependencies 
 - `EmoBERT.ipynb`: The notebook for making emotion prediction on the messages in dialogues. Before running it, make sure to load the checkpoints [HERE](https://drive.google.com/drive/folders/1bsMW6AA_vytzwLDNA5OXhp6IZK_RC0GF?usp=sharing).
 
 ## Dataset
-* The dataset can be found in two folders, **raw** and **dataset**, in [Google Drive](https://drive.google.com/drive/folders/1d74Po6N-es2-2UOsoWSWjCcAACpF_dCG?usp=sharing). 
+* The dataset can be found in two folders, **raw** and **dataset**, in Google Drive. 
 * Categories 
   - **raw**: Raw data scraped by Pushshift can be found [HERE](https://drive.google.com/drive/folders/1_tSoGY2TP7ytGpg8i_EZc777X36Cc5xy?usp=sharing).
-  - **dataset**: Refined data after preprocessing can be found [HERE](https://drive.google.com/drive/folders/1WyaenOEfs9KI7bHYST7pKwGQZP5TMC3R?usp=sharing). Inside the folder, there are three sub-folders containing pure conversation data, conversation data annotated with sentiments, and the data annotated with emotions. 
+  - **dataset**: Refined data after preprocessing can be found [HERE](https://drive.google.com/drive/folders/1DD6FrDTF5CsVgcs4mBreZ15yhA00lYn8?usp=sharing).
 
 
 ## Steps towards Results
