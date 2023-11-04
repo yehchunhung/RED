@@ -76,8 +76,8 @@ The codes are implemented in Python 3. You will need the following dependencies 
 ## Dataset
 * The dataset can be found in two folders, **raw** and **dataset**, in Google Drive. 
 * Categories 
-  - **raw**: Raw data scraped by Pushshift can be found [HERE](https://drive.google.com/drive/folders/1_tSoGY2TP7ytGpg8i_EZc777X36Cc5xy?usp=sharing).
-  - **dataset**: Refined data after preprocessing can be found [HERE](https://drive.google.com/drive/folders/1DD6FrDTF5CsVgcs4mBreZ15yhA00lYn8?usp=sharing).
+  - **raw**: Raw data scraped by Pushshift can be found [HERE](https://terabox.com/s/1IzvLh0uq0z01AMZnVT8-cw).
+  - **dataset**: Refined data after preprocessing can be found [HERE](https://terabox.com/s/1gJhGm7Jdqi-o8eGBI6iFvQ).
 
 
 ## Steps towards Results
